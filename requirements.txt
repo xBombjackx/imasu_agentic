@@ -1,0 +1,10 @@
+requests
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-core
+pydantic
+Pillow
+ollama
+langchain-cli
